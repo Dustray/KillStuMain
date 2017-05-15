@@ -1,0 +1,9 @@
+F:\VS2015 项目\KillStuMain\KillStuMain\bin\Debug\KillStuMain.exe.config
+F:\VS2015 项目\KillStuMain\KillStuMain\bin\Debug\KillStuMain.exe
+F:\VS2015 项目\KillStuMain\KillStuMain\bin\Debug\KillStuMain.pdb
+F:\VS2015 项目\KillStuMain\KillStuMain\obj\Debug\KillStuMain.csprojResolveAssemblyReference.cache
+F:\VS2015 项目\KillStuMain\KillStuMain\obj\Debug\KillStuMain.Form1.resources
+F:\VS2015 项目\KillStuMain\KillStuMain\obj\Debug\KillStuMain.Properties.Resources.resources
+F:\VS2015 项目\KillStuMain\KillStuMain\obj\Debug\KillStuMain.csproj.GenerateResource.Cache
+F:\VS2015 项目\KillStuMain\KillStuMain\obj\Debug\KillStuMain.exe
+F:\VS2015 项目\KillStuMain\KillStuMain\obj\Debug\KillStuMain.pdb
